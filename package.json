@@ -1,0 +1,9 @@
+{
+  "name": "cssProject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aicekiller/cssProject.git",
+  "author": "aicekiller <1017634520@qq.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
